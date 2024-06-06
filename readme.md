@@ -29,8 +29,4 @@ To make predictions, provide the following parameters when prompted:
 * The predictor will calculate the probability of the batting team winning based on these parameters and the current match situation.
 
 # Technologies Used
-Python
-Logistic Regression
-NumPy
-pandas
-Streamlit
+Python, Logistic Regression, NumPy, pandas, Streamlit
