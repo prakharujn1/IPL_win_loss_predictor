@@ -21,8 +21,8 @@ Deployment: Hosted on Streamlit Cloud for easy access and sharing.
 # Usage
 To make predictions, provide the following parameters when prompted:
 
--Batting Team: The team currently at bat.
--Bowling Team: The team currently bowling.
+* Batting Team: The team currently at bat.
+* Bowling Team: The team currently bowling.
 -City: The location of the match.
 -Current runs: The current score of batting team.
 -Overs Completed: The number of overs completed.
