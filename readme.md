@@ -8,7 +8,7 @@ Live demo:https://ipl-match-predictor.streamlit.app/
 The "IPL Win Predictor" leverages logistic regression to provide insights into the probability of a team winning an IPL match. This model analyzes various match features, team performance, and player statistics to offer real-time predictions.
 
 
-Features:
+# Features:
 
 Real-Time Predictions: Get live predictions for IPL match outcomes based on the current match situation.
 
@@ -18,7 +18,7 @@ Customizable Inputs: Adjust the match parameters and teams to simulate different
 
 Deployment: Hosted on Streamlit Cloud for easy access and sharing.
 
-Usage
+# Usage
 To make predictions, provide the following parameters when prompted:
 
 Batting Team: The team currently at bat.
@@ -31,7 +31,7 @@ Target Runs: The total runs scored by a bowling team.
 The predictor will calculate the probability of the batting team winning based on these parameters and the current match situation.
 
 
-Technologies Used
+# Technologies Used
 This project leverages the following technologies:
 
 Python
