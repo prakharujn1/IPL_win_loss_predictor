@@ -2,6 +2,9 @@
 
 Live demo : https://ipl-match-predictor.streamlit.app/
 
+![Screenshot (48)](https://github.com/prakharujn1/IPL_win_loss_predictor/assets/128589011/142914ca-fc48-47a4-b9a8-3498df06ca93)
+
+
 # About This Project:
 
 The "IPL Win Predictor" leverages logistic regression to provide insights into the probability of a team winning an IPL match. This model analyzes various match features, team performance, and player statistics to offer real-time predictions.
